@@ -13,10 +13,12 @@
   npm, jest
   ## Usage:
   The following is the demo of running app.js and run the tests.
-  ![demo gif](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/0r3ry-qyyje.gif)
-  Next is original MP4 files: [demo.mp4](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/Demo.mp4)
+  ![demo gif](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/0r3ry-qyyje.gif)  
+  
+  Next is original MP4 files: [demo.mp4](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/Demo.mp4)  
+  
   The page below is the sample page of Team Profile:
-  ![sample](https://github.com/cffhr99/BQ_Week_10_C/blob/main/dist/index.html)
+  [index.html](https://github.com/cffhr99/BQ_Week_10_C/blob/main/dist/index.html)
   ## License:
   MIT License
   ## Contribution:
