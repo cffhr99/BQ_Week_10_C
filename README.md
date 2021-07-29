@@ -13,7 +13,7 @@
   npm, jest
   ## Usage:
   The following is the demo of running app.js and run the tests.
-  [demo gif](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/0r3ry-qyyje.gif)
+  ![demo gif](https://github.com/cffhr99/BQ_Week_10_C/blob/main/assets/0r3ry-qyyje.gif)
   ## License:
   MIT License
   ## Contribution:
